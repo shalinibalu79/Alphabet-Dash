@@ -1,0 +1,5 @@
+{
+  "name": "Alphabet Dash",
+  "description": "An educational endless runner where you collect letters to form words, avoid obstacles, and use power-ups.",
+  "requestFramePermissions": []
+}
